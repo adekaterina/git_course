@@ -1,3 +1,4 @@
 Dodanie funkcjonalności A
 zmiana funkcjonalności A
-la la la la
+zmiana lalala
+>>>>>>> testing
